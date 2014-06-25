@@ -40,7 +40,7 @@
               &copy; <?php echo date('Y'); ?> <?php bloginfo( 'name' ); ?>.
             </div>
             <div class="col-md-4 col-md-offset-4 attribution">
-              Built by <a target="_blank" href="http://www.danvswild.com">Dan vs Wild</a>
+              Built by <a target="_blank" href="http://www.danvswild.com">Dan vs Wild</a>. Forked by DD9.
             </div>
           </div> <!-- end .row -->
         </div>
